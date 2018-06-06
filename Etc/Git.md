@@ -19,7 +19,7 @@ Commit Messageの先頭には絵文字を置き、絵文字だけで編集内容
 |スタイル・デザイン|:lipstick: `:lipstick:`|`cmstyle`|
 |ブランチのマージ|:twisted_rightwards_arrows: `:twisted_rightwards_arrows:`|`cmmerge`|
 |バグフィックス|:bug: `:bug:`|`cmfix`|
-|重要な修正|:ambulance: `:ambulance:`|`cmambulance`|
+|Hotfix|:ambulance: `:ambulance:`|`cmhotfix`|
 |WIP|:construction: `:construction:`|`cmwip`|
 |Lint|:shirt: `:shirt:`|`cmlint`|
 |コードレビューの反映|:ok_hand: `:ok_hand:`|`cmreview`|
