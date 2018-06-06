@@ -13,6 +13,7 @@ Commit Messageの先頭には絵文字を置き、絵文字だけで編集内容
 |初めてのコミット|:tada: `:data:`|`cminit`|
 |機能追加|:sparkles: `:sparkles:`|`cmfeature`|
 |ドキュメント、README|:books: `:books:`|`cmdoc`|
+|アップデート|:zap: `:zap:`|`cmupdate`|
 |文章・タイポ|:pencil: `:pencil:`|`cmtext`|
 |開発環境・設定ファイル|:wrench: `:wrench:`|`cmconfig`|
 |スタイル・デザイン|:lipstick: `:lipstick:`|`cmstyle`|
