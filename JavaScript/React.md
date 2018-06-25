@@ -10,7 +10,6 @@
 
 ### Constructor
 
-* `@constructor`コメントは書かない
 * Contructor内での記述順は以下の通り
   1. `super(props)`
   2. Stateの初期化
