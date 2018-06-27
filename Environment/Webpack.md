@@ -155,7 +155,6 @@ module.exports = merge(baseConfig, {
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
-const webpack = require('webpack');
 const merge = require('webpack-merge');
 
 const baseConfig = require('./webpack.base');
