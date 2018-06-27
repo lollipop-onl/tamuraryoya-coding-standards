@@ -15,6 +15,9 @@
 * React.js (Vanilla)
 * React.js (TypeScript)
 
+* Angular
+* Vue.js
+
 ## StyleSheet
 
 * CSS
