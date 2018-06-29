@@ -9,7 +9,7 @@
 
 ### Configuration
 
-* [EditorConfig](./Envirnment/Config/EditorConfig.md)
+* [EditorConfig](./Environment/Config/EditorConfig.md)
 * [TypeScript](./Environment/Config/TypeScript.md)
 <!-- * [Babel](./Environment/Config/Babel.md) -->
 * Babel
