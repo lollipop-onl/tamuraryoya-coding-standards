@@ -7,6 +7,14 @@
 * [Webpack](./Environment/Webpack.md)
 * Parcel
 
+### Configuration
+
+* [EditorConfig](./Envirnment/Config/EditorConfig.md)
+* [TypeScript](./Environment/Config/TypeScript.md)
+<!-- * [Babel](./Environment/Config/Babel.md) -->
+* Babel
+* [PostCSS](./Enviroment/Config/PostCSS.md)
+
 ### Linter
 
 * [TSLint](./Environment/Linter/TSLint.md)
