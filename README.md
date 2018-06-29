@@ -13,7 +13,7 @@
 * [TypeScript](./Environment/Config/TypeScript.md)
 <!-- * [Babel](./Environment/Config/Babel.md) -->
 * Babel
-* [PostCSS](./Enviroment/Config/PostCSS.md)
+* [PostCSS](./Environment/Config/PostCSS.md)
 
 ### Linter
 
