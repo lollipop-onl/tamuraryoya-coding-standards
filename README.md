@@ -25,11 +25,12 @@
 * ECMAScript
 * TypeScript
 
-* React.js (Vanilla)
-* React.js (TypeScript)
+* React.js
+* React.js with TypeScript
 
 * Angular
 * Vue.js
+* [Nuxt.js](./Framework/Nuxt.md)
 
 ## StyleSheet
 
