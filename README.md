@@ -24,10 +24,8 @@
 
 * ECMAScript
 * TypeScript
-
 * React.js
 * React.js with TypeScript
-
 * Angular
 * Vue.js
 * [Nuxt.js](./Framework/Nuxt.md)
