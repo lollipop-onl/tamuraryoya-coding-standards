@@ -8,24 +8,24 @@
 
 Commit Messageの先頭には絵文字を置き、絵文字だけで編集内容がわかるようにしましょう
 
-|Commit type|Emoji|Snippet|
-|---|---|---|
-|初めてのコミット|:tada: `:data:`|`cminit`|
-|機能追加|:sparkles: `:sparkles:`|`cmfeature`|
-|ドキュメント、README|:books: `:books:`|`cmdoc`|
-|アップデート|:zap: `:zap:`|`cmupdate`|
-|文章・タイポ|:pencil: `:pencil:`|`cmtext`|
-|開発環境・設定ファイル|:wrench: `:wrench:`|`cmconfig`|
-|スタイル・デザイン|:lipstick: `:lipstick:`|`cmstyle`|
-|ブランチのマージ|:twisted_rightwards_arrows: `:twisted_rightwards_arrows:`|`cmmerge`|
-|バグフィックス|:bug: `:bug:`|`cmfix`|
-|Hotfix|:ambulance: `:ambulance:`|`cmhotfix`|
-|WIP|:construction: `:construction:`|`cmwip`|
-|Lint|:shirt: `:shirt:`|`cmlint`|
-|コードレビューの反映|:ok_hand: `:ok_hand:`|`cmreview`|
-|多言語対応|:alien: `:alien:`|`cmtranslate`|
-|GA・解析ツール|:chart_with_upwards_trend: `:chart_with_upwards_trend:`|`cmanalytics`|
-|よくないコード・応急処置|:hankey:　`:hankey:`|`cmbad`|
+|Commit type|Prefix|Emoji|Snippet|
+|---|:---:|---|---|
+|初めてのコミット|`init:`|:tada: `:data:`|`cminit`|
+|機能追加|`feat:`|:sparkles: `:sparkles:`|`cmfeature`|
+|ドキュメント、README|`docs:`|:books: `:books:`|`cmdoc`|
+|アップデート|`update:`|:zap: `:zap:`|`cmupdate`|
+|文章・タイポ|`text:`|:pencil: `:pencil:`|`cmtext`|
+|開発環境・設定ファイル|`conf:`|:wrench: `:wrench:`|`cmconfig`|
+|スタイル・デザイン|`style:`|:lipstick: `:lipstick:`|`cmstyle`|
+|ブランチのマージ|`merge:`|:twisted_rightwards_arrows: `:twisted_rightwards_arrows:`|`cmmerge`|
+|バグフィックス|`fix:`|:bug: `:bug:`|`cmfix`|
+|Hotfix|`hotfix:`|:ambulance: `:ambulance:`|`cmhotfix`|
+|WIP|`wip:`|:construction: `:construction:`|`cmwip`|
+|Lint|`lint:`|:shirt: `:shirt:`|`cmlint`|
+|コードレビューの反映|`review:`|:ok_hand: `:ok_hand:`|`cmreview`|
+|多言語対応|`lang:`|:alien: `:alien:`|`cmtranslate`|
+|GA・解析ツール|`analyze:`|:chart_with_upwards_trend: `:chart_with_upwards_trend:`|`cmanalytics`|
+|よくないコード・応急処置|`bad:`|:hankey:　`:hankey:`|`cmbad`|
 
 ### メッセージ
 
